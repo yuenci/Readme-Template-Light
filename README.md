@@ -61,9 +61,14 @@ To contribute this project, follow these steps:
 Alternatively, see the GitHub documentation on how to [create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
+
 ## 🤝 Collaborations
 
-We thank the following people who contributed to this project:
+<a href="https://github.com/yuenci" target="_blank" >
+  <img src="https://github.com/yuenci/Laptop-Repair-Services-Management-System/blob/master/image/avatar-innis.png" alt="profile image" width="60px">
+</a>
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 
 ## 😄 Be one of the contributors
