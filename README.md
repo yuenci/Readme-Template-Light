@@ -61,7 +61,7 @@ To contribute this project, follow these steps:
 Alternatively, see the GitHub documentation on how to [create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
-## 🤝 Colaboradores
+## 🤝 Collaborations
 
 We thank the following people who contributed to this project:
 
