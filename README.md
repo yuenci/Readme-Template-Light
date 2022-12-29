@@ -35,12 +35,6 @@ Before you begin, make sure that you have met the following requirements:
 
 To install this project, follow these steps:
 
-Linux and macOS:
-```bash
-$ 
-```
-
-Windows:
 ```bash
 $ 
 ```
@@ -59,9 +53,9 @@ Add execution commands and examples that you think users will find useful. Provi
 To contribute this project, follow these steps:
 
 1.	Fork this repository.
-2.	Crie um branch: git checkout -b <nome_branch>.
-3.	Make your changes and confirm them: git commit -m '<message_commit>'
-4.	Push to the original branch: git push origin <peoject_name> / <local>
+2.	Crie um branch: `git checkout -b <some_branch>`
+3.	Make your changes and confirm them: `git commit -m <message_commit>`
+4.	Push to the original branch: `git push origin <peoject_name> / <local>`
 5.	Create the pull request.
 
 Alternatively, see the GitHub documentation on how to [create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
